@@ -9,9 +9,9 @@ numpy
 pandas
 python-dateutil==2.8.2
 pytz==2022.6
-scikit-learn==1.2.0
-scipy==1.9.3
+scikit-learn
+scipy
 six==1.16.0
-sklearn==0.0.post1
+sklearn
 threadpoolctl==3.1.0
 Werkzeug==2.2.2
